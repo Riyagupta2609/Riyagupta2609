@@ -1,3 +1,4 @@
+
 name: Generate Snake Animation
 
 on:
@@ -20,7 +21,7 @@ jobs:
           github_user_name: Riyagupta2609
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-dark.svg?color_snake=%23216e39&color_dots=%23ebedf0,%239be9a8,%2340c463,%2330a14e,%23216e39
 
       - name: Push snake animation to output branch
         uses: crazy-max/ghaction-github-pages@v4

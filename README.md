@@ -1,15 +1,109 @@
-# 💫 About Me:
-Artificial Intelligence & Data Science student passionate about building <br>innovative and impactful tech solutions.<br><br> Interested in AI, machine learning, data analytics, web development, <br> and open-source contribution.<br><br> I enjoy solving real-world problems through code, exploring new<br> technologies, and continuously improving my technical skills.<br><br>📚 Currently working on projects, strengthening my development skills, <br>and learning more about data-driven and intelligent systems.<br><br>✨ Always curious to learn, collaborate, and create meaningful <br> solutions through technology.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Riya%20Gupta&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%7C%20ML%20Engineer&descAlignY=58&descSize=22" />
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=6C63FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Riya+%F0%9F%91%8B;Data+Science+%7C+Machine+Learning+%7C+Analytics;Turning+Raw+Data+Into+Real+Decisions+%F0%9F%93%8A;CGPA+9.34+%7C+Always+Shipping+Something+New" alt="Typing SVG" />
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=flat&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=flat&logo=Adobe%20Fonts&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Riyagupta2609&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Riyagupta2609&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Riyagupta2609&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://www.linkedin.com/in/riya-gupta-073b29334">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:riyag2618@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Riyagupta2609">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Riyagupta2609&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS" />
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+---
+
+###  About Me
+
+I'm in my 3rd year of a B.Tech in **AI & Data Science** (CGPA 9.34), and I'm working toward becoming a **data scientist / data analyst** who's as comfortable in the data as in the model.
+
+Day to day, that means **Python, SQL, Pandas, NumPy, and Scikit-learn** for cleaning data, running EDA, and building models — and **Matplotlib, Plotly, and Streamlit** for turning those models into dashboards people can actually explore, not just read about in a notebook.
+
+Two internships this year — **AI/ML at Coding Blocks** and **web development at InAmigos Foundation** — pushed me to write code that holds up outside my own laptop, from data preprocessing pipelines to live website pages.
+
+Right now I'm sharpening my instincts for **feature engineering, model evaluation, and clear data storytelling** — the parts of data science that decide whether a model is actually useful or just accurate.
+
+---
+
+###  Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,fastapi&perline=8" />
+</p>
+
+**Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+**AI / ML / Data**
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square)
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![FAISS](https://img.shields.io/badge/-FAISS-4B8BBE?style=flat-square)
+![NLP](https://img.shields.io/badge/-NLP-8A2BE2?style=flat-square)
+![RAG](https://img.shields.io/badge/-RAG-FF6F00?style=flat-square)
+![Agentic AI](https://img.shields.io/badge/-Agentic%20AI-2E8B57?style=flat-square)
+
+---
+
+###  Certifications
+
+- 🧠 **AI/ML** — Infosys Springboard  
+- 📈 **McKinsey Forward** — McKinsey  
+- ⚛️ **Quantum Computing Fundamentals** — IIT Roorkee  
+- 🐍 **Python Developer** — GeeksforGeeks  
+
+---
+
+### 🐍 Live Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Riyagupta2609/Riyagupta2609/output/github-snake-dark.svg" alt="snake animation" />
+</p>
+
+> ⚙️ This animates your real contribution graph as a snake eating your commits. It needs a **one-time GitHub Action setup** — instructions below.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Riyagupta2609&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Riyagupta2609&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riyagupta2609&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Riyagupta2609&theme=algolia&no-frame=true&row=1&margin-w=15&column=5" />
+</p>
+
+---
+
+###  Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <i>💬 Open to AI/ML internships, collaborations, and interesting problems to solve.</i>
+</p>
 
 
